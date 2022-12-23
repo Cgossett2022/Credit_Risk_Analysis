@@ -11,7 +11,6 @@ For this project, I used machine learning to analyze credit card risk in a datas
 6. Evaluate the performance of the models and determine whether they should be used to predict credit risk
 
 ## Results
-Below are the results of the machine learning models:
 
 ### 1. Naive Random Oversampling
 
