@@ -17,7 +17,7 @@ Below are the results of the machine learning models:
 
 <img width="806" alt="naive_random_oversampling" src="https://user-images.githubusercontent.com/111243284/209411963-35d80713-a3f6-4f70-b8eb-da9c96378cfc.png">
 
-#### Balanced Accuracy:
+#### Balanced Accuracy: 0.6456130066757718
 #### Precision:
 #### Recall:
 
@@ -25,7 +25,7 @@ Below are the results of the machine learning models:
 
 <img width="779" alt="SMOTE_oversampling" src="https://user-images.githubusercontent.com/111243284/209412048-dd3f7632-3f42-4ed4-afcd-77033b1dd720.png">
 
-#### Balanced Accuracy:
+#### Balanced Accuracy: 0.6234433606890912
 #### Precision:
 #### Recall:
 
@@ -33,7 +33,7 @@ Below are the results of the machine learning models:
 
 <img width="810" alt="undersampling" src="https://user-images.githubusercontent.com/111243284/209412062-7196f1f1-dd45-4cce-b2e0-0a79c83e165e.png">
 
-#### Balanced Accuracy:
+#### Balanced Accuracy: 0.6234433606890912
 #### Precision:
 #### Recall:
 
@@ -41,7 +41,7 @@ Below are the results of the machine learning models:
 
 <img width="806" alt="combination over-under sampling" src="https://user-images.githubusercontent.com/111243284/209412077-b6d9d051-bd1e-4afb-b3bd-5b8b01cfdac5.png">
 
-#### Balanced Accuracy:
+#### Balanced Accuracy: 0.5292734810302525
 #### Precision:
 #### Recall:
 
@@ -49,7 +49,7 @@ Below are the results of the machine learning models:
 
 <img width="801" alt="balanced_random_forest_classifier" src="https://user-images.githubusercontent.com/111243284/209412089-086316ad-d5be-40c0-aab0-ab553e993370.png">
 
-#### Balanced Accuracy:
+#### Balanced Accuracy: 0.7877672625306695
 #### Precision:
 #### Recall:
 
@@ -57,7 +57,7 @@ Below are the results of the machine learning models:
 
 <img width="787" alt="easy_enseble_adaboost_classifier" src="https://user-images.githubusercontent.com/111243284/209412095-5106ea31-106e-46bb-a626-a1fb8d377a3f.png">
 
-#### Balanced Accuracy:
+#### Balanced Accuracy: 0.925427358175101
 #### Precision:
 #### Recall:
 
