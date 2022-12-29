@@ -88,7 +88,7 @@ The results are summarized below:
 -Low Risk: 92.5% accuracy, 100% precision, 94% recall, and 97% F1 Score
 
 
-Based on the results, I would recommend using the EasyEnsembleClassifier model because it had the highest accuracy and precision for high risk candidates. Furhtermore, it has the highest sensitivity rate  
+Based on the results, I would recommend using the EasyEnsembleClassifier model because it had the highest accuracy, precision, and recall for high risk loans. Since we are most concerned with high risk candidates potentially defaulting on their loans, it's best to identify these candidates before extending credit. When compared to the other models, the EasyEnsembleClassifier does the best job minimizing risk. 
 
 
 
