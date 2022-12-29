@@ -18,7 +18,7 @@ For this project, I used machine learning to analyze credit card risk in a datas
 
 #### Balanced Accuracy: 0.6456130066757718
 #### Precision: The precision is low for high-risk loans and is high for low-risk loans.
-#### Recall:
+#### Recall: .61/.67
 
 ### 2. SMOTE Oversampling
 
