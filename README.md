@@ -61,7 +61,7 @@ For this project, I used machine learning to analyze credit card risk in a datas
 #### Recall: high-risk = .91 low-risk = .94
 
 ## Summary
-Based on the results,
+Based on the results, I would recommend using the EasyEnsembleClassifier model because it had the highest accuracy and precision for high risk candidates. 
 
 
 
