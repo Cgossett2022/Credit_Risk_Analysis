@@ -18,7 +18,8 @@ For this project, I used machine learning to analyze credit card risk in a datas
 
 #### Balanced Accuracy: 0.6456130066757718
 #### Precision: The precision is low for high-risk loans and is high for low-risk loans.
-#### Recall: .61/.68
+#### Recall: high-risk = .61 
+             low-risk = .68
 
 ### 2. SMOTE Oversampling
 
@@ -26,7 +27,8 @@ For this project, I used machine learning to analyze credit card risk in a datas
 
 #### Balanced Accuracy: 0.6234433606890912
 #### Precision: The precision is low for high-risk loans and is high for low-risk loans.
-#### Recall: .61/.64
+#### Recall: high-risk = .61
+             low-risk = .64
 
 ### 3. Undersampling
 
@@ -34,7 +36,8 @@ For this project, I used machine learning to analyze credit card risk in a datas
 
 #### Balanced Accuracy: 0.6234433606890912
 #### Precision: The precision is low for high-risk loans and is high for low-risk loans.
-#### Recall: .61/.45
+#### Recall: high-risk = .61
+             low-risk = .45
 
 ### 4. Combination Over and Under Sampling
 
@@ -42,7 +45,8 @@ For this project, I used machine learning to analyze credit card risk in a datas
 
 #### Balanced Accuracy: 0.5292734810302525
 #### Precision: The precision is low for high-risk loans and is high for low-risk loans.
-#### Recall: .70/.58
+#### Recall: high-risk = .70
+             low-risk = .58
 
 ### 5. Balanced Random Forest Classifier
 
@@ -50,7 +54,8 @@ For this project, I used machine learning to analyze credit card risk in a datas
 
 #### Balanced Accuracy: 0.7877672625306695
 #### Precision: The precision is low for high-risk loans and is high for low-risk loans.
-#### Recall: .67/.91
+#### Recall: high-risk = .67
+             low-risk = .91
 
 ### 6. Easy Ensemble AdaBoost Classifier
 
@@ -58,7 +63,8 @@ For this project, I used machine learning to analyze credit card risk in a datas
 
 #### Balanced Accuracy: 0.925427358175101
 #### Precision: The precision is low for high-risk loans and is high for low-risk loans.
-#### Recall: .91/.94
+#### Recall: high-risk = .91
+             low-risk = .94
 
 ## Summary
 
