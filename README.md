@@ -61,7 +61,8 @@ For this project, I used machine learning to analyze credit card risk in a datas
 #### Recall: high-risk = .91 low-risk = .94
 
 ## Summary
-The results are summarized below:
+
+### Summarized Results
 
 **1. Naive Random Oversampling**
 -High Risk: 64.6% accuracy, 1% precision, 61% recall, and 2% F1 Score
@@ -87,6 +88,7 @@ The results are summarized below:
 -High Risk: 92.5% accuracy, 7% precision, 91% recall, and 14% F1 Score
 -Low Risk: 92.5% accuracy, 100% precision, 94% recall, and 97% F1 Score
 
+### Recommendation
 
 Based on the results, I would recommend using the EasyEnsembleClassifier model because it had the highest accuracy, precision, and recall for high risk loans. Since we are most concerned with high risk candidates potentially defaulting on their loans, it's best to identify these candidates before extending credit. When compared to the other models, the EasyEnsembleClassifier does the best job minimizing risk. 
 
