@@ -63,7 +63,7 @@ For this project, I used machine learning to analyze credit card risk in a datas
 ## Summary
 The results are summarized below:
 
-1. Naive Random Oversampling
+##1. Naive Random Oversampling##
 -High Risk: 64.6% accuracy, 1% precision, 61% recall, and 2% F1 Score
 -Low Risk: 64.6% accuracy, 100% precision, 68% recall, and 81% F1 Score
 
