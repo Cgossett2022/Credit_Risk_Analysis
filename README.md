@@ -17,7 +17,7 @@ For this project, I used machine learning to analyze credit card risk in a datas
 <img width="806" alt="naive_random_oversampling" src="https://user-images.githubusercontent.com/111243284/209411963-35d80713-a3f6-4f70-b8eb-da9c96378cfc.png">
 
 #### Balanced Accuracy: 0.6456130066757718
-#### Precision:
+#### Precision: The precision is low for high-risk loans and is high for low-risk loans.
 #### Recall:
 
 ### 2. SMOTE Oversampling
