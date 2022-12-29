@@ -63,27 +63,27 @@ For this project, I used machine learning to analyze credit card risk in a datas
 ## Summary
 The results are summarized below:
 
-##1. Naive Random Oversampling##
+**1. Naive Random Oversampling**
 -High Risk: 64.6% accuracy, 1% precision, 61% recall, and 2% F1 Score
 -Low Risk: 64.6% accuracy, 100% precision, 68% recall, and 81% F1 Score
 
-2. SMOTE Oversampling
+**2. SMOTE Oversampling**
 -High Risk: 62.3% accuracy, 1% precision, 61% recall, and 2% F1 Score
 -Low Risk: 62.3% accuracy, 100% precision, 64% recall, and 78% F1 Score
 
-3. Undersampling:
+**3. Undersampling**
 -High Risk: 62.3% accuracy, 1% precision, 61% recall, and 1% F1 Score
 -Low Risk: 62.3% accuracy, 100% precision, 45% recall, and 62% F1 Score
 
-4. Combination Over and Under Sampling:
+**4. Combination Over and Under Sampling**
 -High Risk: 52.9% accuracy, 1% precision, 70% recall, and 2% F1 Score
 -Low Risk: 52.9% accuracy, 100% precision, 58% recall, and 73% F1 Score
 
-5. Balanced Random Forecast Classifier:
+**5. Balanced Random Forecast Classifier**
 -High Risk: 78.8% accuracy, 4% precision, 67% recall, and 7% F1 Score
 -Low Risk: 78.8% accuracy, 100% precision, 91% recall, and 95% F1 Score
 
-6. Easy Ensemble AdaBoost Classifier:
+**6. Easy Ensemble AdaBoost Classifier**
 -High Risk: 92.5% accuracy, 7% precision, 91% recall, and 14% F1 Score
 -Low Risk: 92.5% accuracy, 100% precision, 94% recall, and 97% F1 Score
 
